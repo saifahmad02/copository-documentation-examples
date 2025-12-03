@@ -21,7 +21,7 @@ Each project folder in `/docs` contains documentation generated directly from a 
 
 ## ⚙️ About Copository
 
-Copository is built as a **fully serverless AI pipeline** that ingests a public GitHub repository, preprocesses and filters its content, and generates structured documentation using Google’s **Gemini 1.5 Flash** model.
+Copository is built as a **fully serverless AI pipeline** that ingests a public GitHub repository, preprocesses and filters its content, and generates structured documentation using Google’s **Gemini 2.5 Flash** model.
 
 ### Core Highlights
 - **Serverless architecture:** AWS Lambda, API Gateway, DynamoDB  
@@ -44,8 +44,8 @@ The goal of this showcase is to highlight Copository’s ability to:
 
 ## 🚀 Try Copository
 
-To learn more about how Copository works or to request access for your own repository:
-👉 Visit [**copository.app**](https://copository.app)
+To learn more about how Copository works or to try it out with your own repository:
+👉 Visit **[Copository](https://www.copository.com)**
 
 ---
 ### 🧠 Repository Structure
