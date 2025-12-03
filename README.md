@@ -48,7 +48,7 @@ To learn more about how Copository works or to request access for your own repos
 👉 Visit [**copository.app**](https://copository.app)
 
 ---
-
+```
 ### 🧠 Repository Structure
 copository-showcase/
 ├── README.md
@@ -57,7 +57,7 @@ copository-showcase/
     ├── express/
     ├── flask/
     └── libp2p/
-
+```
 ---
 
 > _Generated with ❤️ by Copository — turning GitHub repositories into beautiful, structured documentation._
